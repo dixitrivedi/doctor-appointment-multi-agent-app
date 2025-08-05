@@ -1,13 +1,8 @@
-# Doctor Appointment App (MAS Based)
+# Doctor Appointment Assistant (MAS BASED)
 
 This project implements a **LangGraph-powered multi-agent system** that handles appointment **booking**, **cancellation**, **rescheduling**, and **availability checking** for doctors. It uses **LangChain**, **LangGraph**, and **OpenAI/Groq LLMs**, with tool-augmented agents and stateful routing logic.
 
----
-
 ![data/photos/ui_photo.png](data/photos/ui_photo.png)
-
-```
-
 
 ---
 
